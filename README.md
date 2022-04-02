@@ -1,5 +1,8 @@
-<!-- ### Hi there 👋
- -->
+### Konnichiwa, Tejas Here 👋
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=tejas-44)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> -->
 
 <!--
