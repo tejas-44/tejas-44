@@ -1,6 +1,6 @@
 ### Konnichiwa, Tejas Here 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas-44)](https://github.com/anuraghazra/github-readme-stats)
+[![Tejas's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tejas-44&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
 
 
 
